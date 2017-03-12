@@ -1,4 +1,4 @@
 create a new branch is quick
 second branch about 'master'
-
+git can merge branches.
 
